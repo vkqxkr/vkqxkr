@@ -1,0 +1,8 @@
+# Jetbrains
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
