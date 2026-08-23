@@ -1,6 +1,7 @@
 ### 👋 Nice ways to reach me
 
-[![GitHub](https://img.shields.io/badge/GitHub-vkqxkr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vkqxkr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vkqxkr/)
+[![Email](https://img.shields.io/badge/vkqxkr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:vkqxkr@gmail.com)
 
 ---
 
@@ -17,7 +18,7 @@ I build Python backend services with Django and FastAPI, and work with Docker, K
 
 #### 📊 On the reliability & operations side,
 
-I use Prometheus, Grafana, Elastic Stack, and Loki to make systems observable. I also work across networking, security, databases, and Linux to keep services reliable and operationally simple.
+I use Prometheus, Grafana, Alloy, Mimir, Tempo, Elastic Stack, and Loki to make systems observable. I also work across networking, security, databases, and Linux to keep services reliable and operationally simple.
 
 ---
 
@@ -52,6 +53,9 @@ I use Prometheus, Grafana, Elastic Stack, and Loki to make systems observable. I
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Grafana Alloy](https://img.shields.io/badge/Grafana_Alloy-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Mimir](https://img.shields.io/badge/Mimir-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
 
